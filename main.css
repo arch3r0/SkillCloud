@@ -148,7 +148,7 @@ textarea {
 }
 
 
-button{
+a.button{
     font-size: 18px;
     font-weight: 700;
     background-color: #af0ca2;
@@ -162,7 +162,7 @@ button{
     width: 30%;
 }
 
-button:hover {
+a.button:hover {
     background-color: #af0ca2;
 }
 
@@ -170,7 +170,7 @@ button:hover {
 @media (max-width: 768px) {
     input[type="email"],
     textarea,
-    button{
+    a.button{
         width: 90%;
         margin: 8px auto;
     }
