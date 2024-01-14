@@ -148,7 +148,7 @@ textarea {
 }
 
 
-button[type="submit"] {
+button{
     font-size: 18px;
     font-weight: 700;
     background-color: #af0ca2;
@@ -162,7 +162,7 @@ button[type="submit"] {
     width: 30%;
 }
 
-button[type="submit"]:hover {
+button:hover {
     background-color: #af0ca2;
 }
 
